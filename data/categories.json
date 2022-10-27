@@ -1,34 +1,26 @@
 [
   {
-    "id": "01",
-    "name": "Microsoft Excel 2013 Course Beginners/ Intermediate Training"
-  },
-  {
     "id": "02",
-    "name": "Microsoft Excel 2013 Advanced. Online Excel Training Course"
+    "name": "Excel"
   },
   {
     "id": "03",
-    "name": "Become a Certified HTML, CSS, JavaScript Web Developer"
+    "name": "Web Development"
   },
   {
     "id": "04",
-    "name": "The Complete 2020 Fullstack Web Developer Course"
+    "name": "Java Script"
   },
   {
     "id": "05",
-    "name": "Javascript for Beginners"
+    "name": "Data Science"
   },
   {
-    "id": "06",
-    "name": "1 Hour JavaScript"
+    "id": "05",
+    "name": "Python"
   },
   {
-    "id": "07",
-    "name": "Learn how to code in JavaScript in 1 hour. This class is set up for complete beginners!"
-  },
-  {
-    "id": "08",
-    "name": "Learn Python: The Complete Python Programming Course"
+    "id": "01",
+    "name": "All Courses"
   }
 ]

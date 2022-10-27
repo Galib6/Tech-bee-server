@@ -1,7 +1,7 @@
 [
   {
     "id": "0282e0e58a5c404fbd15261f11c2ab6a",
-    "category_id": "01",
+    "category_id": "02",
     "rating": "4.5",
     "title": "Microsoft Excel 2013 Course Beginners/ Intermediate Training",
     "image_url": "https://www.filepicker.io/api/file/L8RIulJbRAWqE3VbEycY",
@@ -31,7 +31,7 @@
   },
   {
     "id": "0282e0e58a5c404fbd15261f11c2ab6d",
-    "category_id": "04",
+    "category_id": "03",
     "rating": "4.5",
     "title": "The Complete 2020 Fullstack Web Developer Course",
     "image_url": "https://freestudyweb.com/wp-content/uploads/2020/08/The-Complete-2020-Fullstack-Web-Developer-Course.png",
@@ -41,7 +41,7 @@
   },
   {
     "id": "0282e0e58a5c404fbd15261f11c2ab6e",
-    "category_id": "05",
+    "category_id": "04",
     "rating": "4.5",
     "title": "Javascript for Beginners",
     "image_url": "https://uploads.sitepoint.com/wp-content/uploads/2022/09/1662525180number-to-ordinal-js.jpg",
@@ -51,7 +51,7 @@
   },
   {
     "id": "0282e0e58a5c404fbd15261f11c2ab6f",
-    "category_id": "06",
+    "category_id": "04",
     "rating": "4.5",
     "title": "1 Hour JavaScript",
     "image_url": "https://miro.medium.com/max/1400/1*6Vni-NXHhLUWNjGN0pp0MQ.jpeg",
@@ -61,7 +61,7 @@
   },
   {
     "id": "0282e0e58a5c404fbd15261f11c2ab6g",
-    "category_id": "07",
+    "category_id": "05",
     "rating": "4.5",
     "title": "Learn how to code in JavaScript in 1 hour. This class is set up for complete beginners!",
     "image_url": "https://miro.medium.com/max/1400/1*6Vni-NXHhLUWNjGN0pp0MQ.jpeg",
@@ -71,7 +71,7 @@
   },
   {
     "id": "0282e0e58a5c404fbd15261f11c2ab6h",
-    "category_id": "08",
+    "category_id": "06",
     "rating": "4.5",
     "title": "Learn Python: The Complete Python Programming Course",
     "image_url": "https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/1076945/retina_1708x683_javascript_issues-a3d6df8b947d51f5e3613faff9378083.png",
